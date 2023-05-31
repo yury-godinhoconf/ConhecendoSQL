@@ -1,0 +1,2 @@
+/*Desafio: vendedores anterior a 2020*/
+SELECT * FROM [TABELA DE VENDEDORES] WHERE YEAR([DATA INICIO]) <= 2020

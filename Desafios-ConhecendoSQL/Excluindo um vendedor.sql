@@ -1,0 +1,2 @@
+/*Desafio: excluindo um vendedor*/
+DELETE FROM [TABELA DE VENDEDORES] WHERE (MATRICULA = 00236)

@@ -1,0 +1,2 @@
+/*Desafio: vendedores e dependentes de RJ*/
+SELECT * FROM [TABELA DE VENDEDORES] WHERE (TEM_DEPENDENTE = 1) AND (CIDADE = 'RIO DE JANEIRO')

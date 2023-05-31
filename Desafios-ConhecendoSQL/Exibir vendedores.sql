@@ -1,0 +1,2 @@
+/*Desafio: exibir vendedores*/
+SELECT * FROM [TABELA DE VENDEDORES] WHERE [PERCENTUAL COMISSÃO] < 0.08
